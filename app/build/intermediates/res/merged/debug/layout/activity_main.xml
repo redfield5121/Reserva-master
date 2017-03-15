@@ -61,7 +61,7 @@
         android:text="Hacer Reservacion" />
 
     <Button
-        android:text="Button"
+        android:text="Verificar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/Verificacion"

@@ -5,8 +5,8 @@
     density="mdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="247728576560235"
-    token="-4228447694046586536"
+    timestamp="2914817495054"
+    token="-6886956705328839965"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
@@ -23,14 +23,14 @@
         duration="0" />
 
     <artifact
-        location="E:\Reserva-master\app\build\outputs\apk\app-debug.apk"
+        location="D:\Reserva-master\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="247728576560235"
+        timestamp="2914817495054"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="E:\Reserva-master\app\build\outputs\apk\app-debug.apk"
+            location="D:\Reserva-master\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
 

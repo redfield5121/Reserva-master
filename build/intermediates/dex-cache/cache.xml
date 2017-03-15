@@ -3,48 +3,48 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\cristhian\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jar="D:\Reserva-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="f308a6106af36295292b2ddfac9e8f8e0766121c">
+        <dex dex="D:\Reserva-master\app\build\intermediates\pre-dexed\debug\instant-run_ab1e73d3341f638b9825e84c62d738220ef9fca1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CECyT9\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="21.1.2"
         sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="E:\Reserva-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0_8d23a88f460dbad97ef402edb1ed92a596e6e749.jar" />
+        <dex dex="D:\Reserva-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0_d3c3101c895829a414caf86cba42c31c38c8e865.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="E:\Reserva-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="7ce3ff695bc87683d5b4b6473889f6ffc0a91950">
-        <dex dex="E:\Reserva-master\app\build\intermediates\pre-dexed\debug\instant-run_cf345ad84bf45f1ea9f92e14c23792f3fc81882d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\Reserva-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="73b7fd517beaf69b2eb5d53b0b304e85cb992316">
-        <dex dex="E:\Reserva-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_488b64cd4703f52bff476148cebd8c06bc3efee3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\Reserva-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jar="D:\Reserva-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="21.1.2"
         sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="E:\Reserva-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.0.0_a51844ec6c32ac415d7ce9df0ca52a56c87d4cc9.jar" />
+        <dex dex="D:\Reserva-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.0.0_229f70a0c3cd230e43b44f99d410c953dd3fc0f0.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="E:\Reserva-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jar="D:\Reserva-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d35fcb758262d6027d36a667fa52a3955153b0b1">
+        <dex dex="D:\Reserva-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_25e65a3bea7021a9ebd8b07f1da40343b4453bc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Reserva-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="21.1.2"
         sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="E:\Reserva-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0_a35cf7f49f830cc6330890fbec323d48e71f53a7.jar" />
+        <dex dex="D:\Reserva-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0_b0df03921180b36c9db76cb79c23ec6a9d31f0cb.jar" />
     </item>
 
 </items>

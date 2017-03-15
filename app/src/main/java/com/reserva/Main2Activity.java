@@ -1,7 +1,9 @@
 package com.reserva;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.app.Activity;
+import android.view.View;
 import android.widget.TextView;
 
 public class Main2Activity extends Activity {
@@ -9,6 +11,7 @@ public class Main2Activity extends Activity {
     String nombre = "";
     String fecha = "";
     TextView texto;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -25,6 +28,10 @@ public class Main2Activity extends Activity {
         texto.setText("Confirmar reservacion" +
                 "nombre: "+nombre + "fecha: "+ fecha);
 
+    }
+    public void volver(View v){
+        Intent intento= new Intent(this, MainActivity.class);
+        startActivity(intento);
     }
 
 

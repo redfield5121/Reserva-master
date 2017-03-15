@@ -1,14 +1,18 @@
 [
     {
-        "merged": "E:\\Reserva-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actividad2.xml",
-        "source": "E:\\Reserva-master\\app\\src\\main\\res\\layout\\actividad2.xml"
+        "merged": "D:\\Reserva-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
+        "source": "D:\\Reserva-master\\app\\src\\main\\res\\layout\\activity_main2.xml"
     },
     {
-        "merged": "E:\\Reserva-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
-        "source": "E:\\Reserva-master\\app\\src\\main\\res\\layout\\activity_main2.xml"
+        "merged": "D:\\Reserva-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actividad2.xml",
+        "source": "D:\\Reserva-master\\app\\src\\main\\res\\layout\\actividad2.xml"
     },
     {
-        "merged": "E:\\Reserva-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "E:\\Reserva-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "D:\\Reserva-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "D:\\Reserva-master\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "D:\\Reserva-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Reserva-master\\app\\src\\main\\res\\layout\\activity_main.xml"
     }
 ]
